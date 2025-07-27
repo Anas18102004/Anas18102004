@@ -1,90 +1,29 @@
-# Mohammad Anas - AI & Data Science Enthusiast
+<h1 align="center">Hi 👋, I'm Mohammad Anas Africawala</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anas18102004&label=Profile%20views&color=0e75b6&style=flat" alt="anas18102004" /> </p>
 
-## 🚀 Overview
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anas18102004" alt="anas18102004" /></a> </p>
 
-Hello! [cite_start]I'm Mohammad Anas, an enthusiastic AI & Data Science undergraduate with a strong foundation in Machine Learning, Deep Learning, Natural Language Processing (NLP), Computer Vision (CV), and Large Language Models (LLMs)[cite: 1]. [cite_start]I'm passionate about building real-time, scalable AI systems and multi-modal applications [cite: 2][cite_start], and I'm eager to contribute to cutting-edge innovation at the intersection of AI, autonomy, and intelligent systems[cite: 3].
+- 🔭 I’m currently working on **Multimodal AI Healthcare Platform**
 
-My expertise lies in transforming complex data into actionable insights and developing intelligent solutions that push the boundaries of AI. This repository serves as a showcase of my technical abilities, innovative projects, and contributions to the AI/ML community.
+- 🌱 I’m currently learning **LangChain , LangGraph , LangFlow , Google Adk , LlamaIndex , Advance LLms , Finetuning LLm Model**
 
-## ✨ Highlights & Key Strengths
+- 👨‍💻 All of my projects are available at [https://www.google.com/search?q=https://github.com/Anas18102004](https://www.google.com/search?q=https://github.com/Anas18102004)
 
-* **Full-stack AI Development**: Proven ability to conceptualize, design, and deploy end-to-end AI solutions, from data ingestion and model training to scalable application deployment.
-* **Multimodal AI Applications**: Experienced in integrating various AI modalities (e.g., voice, text, image) to create intelligent and intuitive user experiences. [cite_start]My work includes spearheading a multimodal AI healthcare platform[cite: 5].
-* [cite_start]**LLM & Generative AI**: Solid understanding and practical experience with Large Language Models, including fine-tuning models like MedGemma and leveraging frameworks like LangChain, LangGraph, and RAG for advanced conversational AI[cite: 4, 5, 6].
-* **Problem Solver & Innovator**: Consistently recognized in hackathons and challenges for innovative solutions and technical prowess, including being a Finalist in the Maverick GA Challenge 2024 and Winner of the Innosprint Hackathon.
-* **Strong Academic Foundation**: Currently pursuing a B.Tech in Artificial Intelligence & Data Science from UKA Tarsadia University, Gujarat, with a CGPA of 9.09.
+- 💬 Ask me about **Machine Learning, Deep Learning, NLP, CV, Large Language Models , real-time scalable AI systems, multi-modal applications , Python, TensorFlow, PyTorch, LangChain, LangGraph, MERN Stack**
 
-## 💼 Work Experience
+- 📫 How to reach me **mohammad.anas.1367@gmail.com**
 
-### AI/ML Intern - JBCODEAPP (May 2025 - July 2025)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mohammad anas africawala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad anas africawala" height="30" width="40" /></a>
+</p>
 
-* [cite_start]Spearheaded a multimodal AI healthcare platform employing a fine-tuned MedGemma model for detailed symptom inference and clinical report understanding[cite: 4, 5].
-* [cite_start]Leveraged LangChain, LangGraph, and Retrieval-Augmented Generation (RAG) to enable context-aware voice interactions, emotional intelligence, and tailored wellness recommendations[cite: 5, 6].
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-## 🔬 Projects
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anas18102004&show_icons=true&locale=en&layout=compact" alt="anas18102004" /></p>
 
-Here are some of my flagship projects, demonstrating my capabilities in various AI domains:
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anas18102004&show_icons=true&locale=en" alt="anas18102004" /></p>
 
-### 1. Kannada Speech-to-Text NLP System
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anas18102004&" alt="anas18102004" /></p>
 
-* [cite_start]**Description**: Engineered a multilingual pipeline using OpenAI Whisper for Kannada speech recognition and BERT for translation and answering[cite: 7]. [cite_start]Integrated TTS for seamless audio interaction[cite: 7].
-* **Technologies**: OpenAI Whisper, BERT, Text-to-Speech (TTS).
-* **Achievement**: Secured Top 7 position at the IIIT Bangalore AI/ML Fiesta Hackathon.
-* **Repository**: [Anas18102004](https://github.com/Anas18102004/Anas18102004) (If this project has a dedicated subfolder or a more specific repo, update this link for clarity.)
-
-### 2. News Topic Scraping, Classification & Summarization
-
-* [cite_start]**Description**: Created an NLP workflow where users provide a topic; news is fetched via BeautifulSoup[cite: 8]. [cite_start]Incorporated text classification, abstractive summarization, sentiment scoring, and entity extraction[cite: 9].
-* **Technologies**: BeautifulSoup (for web scraping), Text Classification models, Abstractive Summarization techniques, Sentiment Analysis, Named Entity Recognition (NER).
-* **Repository**: [AI-News-Scraper-Analysis](https://github.com/Anas18102004/AI-News-Scraper-Analysis)
-
-### 3. AI-Based Traffic & Accident Management System
-
-* [cite_start]**Description**: Implemented an adaptive control framework utilizing YOLOv12 to monitor congestion and optimize signal flow[cite: 10]. [cite_start]Enabled incident alerts via Twilio API for emergency communication[cite: 10].
-* **Technologies**: YOLOv12, Twilio API.
-* **Repository**: [Urban-Navigator](https://github.com/Anas18102004/Urban-Navigator)
-
-### 4. LegalTech Web App for Users & Lawyers
-
-* [cite_start]**Description**: Developed a role-based legal platform featuring a chatbot and IVR for public queries, and AI-generated practice cases for lawyers[cite: 11]. [cite_start]Included document management, appointment scheduling, and NLP-powered case search[cite: 11].
-* **Technologies**: Chatbot integration, IVR systems, NLP, Document Management, Appointment Scheduling.
-* **Repository**: [Law_Ivr](https://github.com/Anas18102004/Law_Ivr)
-
-### Other Notable Repositories:
-
-* [cite_start]**MedRag**: Repository showcasing aspects of the multimodal AI healthcare platform, potentially focusing on the MedGemma fine-tuning and RAG implementation. [cite: 4, 5]
-* **RAG-Conflict**: Explores advanced Retrieval-Augmented Generation techniques, possibly addressing conflict resolution or optimization in RAG systems.
-* **NyayaSetu**: Another LegalTech-related project, possibly a component or a different iteration of a legal assistance system.
-* **SandqalQuest**: A project likely demonstrating data analysis, machine learning model development, or a specific algorithm explored in a Jupyter Notebook environment.
-* **Flappy-Bird-Using-CV**: A practical Computer Vision project implementing the classic Flappy Bird game using image processing and detection techniques.
-* **GTU**: Contains projects or coursework developed during studies at Gujarat Technological University (GTU), showcasing academic applications of AI/ML.
-
-## 🛠️ Skills & Technologies
-
-* [cite_start]**AI & Programming**: Python, Java, TensorFlow, PyTorch, OpenCV, Hugging Face, Scikit-learn, LangChain, LangGraph [cite: 12]
-* [cite_start]**Web & Tools**: MERN Stack, Flask, Django, FastAPI, Git, GitHub, n8n Automation, MongoDB, MySQL [cite: 12]
-
-## 🏆 Certifications & Achievements
-
-### Certifications
-
-* Bootcamp on Drone Tech - SVNIT
-* STTP on AI & Robotics - SVNIT
-* Prompt Engineering - Great Learning
-* Lokahi & AI for Connectivity Hackathons: Lablab.ai
-
-### Achievements
-
-* Finalist - Maverick GA Challenge 2024
-* Winner - Innosprint Hackathon
-* Top 7 - ML-Fiesta Hackathon, IIIT-Bangalore
-
-## 📞 Connect with Me
-
-I'm always open to discussing new ideas, collaborations, or opportunities in the AI and Data Science space. Feel free to reach out!
-
-* [cite_start]**Email**: MOHAMMAD.ANAS.1367@GMAIL.COM [cite: 1]
-* [cite_start]**LinkedIn**: [linkedin.com/in/mohammad-anas-africawala](https://www.linkedin.com/in/mohammad-anas-africawala) [cite: 1]
-* **GitHub**: [github.com/Anas18102004](https://github.com/Anas18102004)
-
----
