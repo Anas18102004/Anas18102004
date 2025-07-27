@@ -51,7 +51,7 @@ My expertise translates complex data into actionable insights, driving the devel
 Here are some of my flagship projects, demonstrating my capabilities in various AI domains:
 
 ### 1. Kannada Speech-to-Text NLP System
-<a href="https://github.com/Anas18102004/Anas18102004" target="_blank">
+<a href="https://github.com/Anas18102004/AI-News-Scraper-Analysis" target="_blank">
   <img src="https://img.shields.io/badge/Repository-Visit-blueviolet?style=for-the-badge&logo=github" alt="Repository Link">
 </a>
 * **Description**: Engineered a robust multilingual pipeline using OpenAI Whisper for Kannada speech recognition and BERT for translation and interactive Q&A. [cite_start]Integrated TTS for seamless audio interaction[cite: 7].
