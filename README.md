@@ -70,19 +70,19 @@ I build robust, reproducible software systems that bridge algorithmic machine le
 │   ├── native-attention-ssl     # Self-supervised YOLOv12 area-attention representation learning
 │   ├── Strong-Seaweed           # Geospatial Earth observation & XGBoost suitability modeling
 │   ├── SandalQuest              # Multimodal colloquial speech recognition & QA (IIIT Bangalore Top 7)
-│   ├── DeepFake                 # Media forensics & deepfake video verification pipeline
+│   ├── deepfake-detection                 # Media forensics & deepfake video verification pipeline
 │   └── RAG-Conflict             # Empirical document conflict reconciliation benchmark
 │
 ├── 🤖 Autonomous Agents & Full-Stack AI
 │   ├── NyaySetu                 # LangGraph adversarial courtroom deliberation platform
-│   ├── Law_Ivr                  # Twilio telephony & Whisper voice consultation gateway
+│   ├── law-ivr                  # Twilio telephony & Whisper voice consultation gateway
 │   ├── orbix-your-ai-team-navigator # Multi-agent workflow coordination workspace
-│   └── Prompt-To-animation      # Natural language to parametric animation engine
+│   └── prompt-to-animation      # Natural language to parametric animation engine
 │
 ├── 👁️ Computer Vision & Robotics
 │   ├── Robo (Jerry)             # Raspberry Pi 4 autonomous vision robot with GPIO arm
 │   ├── mindmesh-traffic-vision  # Real-time traffic queue & density analytics platform
-│   └── Flappy-Bird-Using-CV     # Optical gesture control interface via MediaPipe
+│   └── flappy-bird-cv     # Optical gesture control interface via MediaPipe
 │
 └── ⚙️ Systems & Low-Level Engineering
     └── cricket-legacy           # C/C++ native game engine port for modern Android ARM64
