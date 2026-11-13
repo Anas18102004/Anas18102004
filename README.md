@@ -1,89 +1,95 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/Anas18102004?v=4" width="180" height="180" style="border-radius: 50%; border: 4px solid #00ffcc; box-shadow: 0 0 15px #00ffcc;" alt="Mohammad Anas Avatar">
-</p>
+# Mohammad Anas Africawala
 
-<h1 align="center">Mohammad Anas</h1>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohammad-anas-africawala/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:MOHAMMAD.ANAS.1367@GMAIL.COM">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Anas18102004">
-    <img src="https://img.shields.io/badge/GitHub-Visit-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+**AI/ML Engineer & Systems Researcher**  
+B.Tech in Artificial Intelligence & Data Science · Uka Tarsadia University (CGPIT)  
+**Cumulative CGPA: 9.25 / 10.0** (Ranked **2nd** in Department) · **Final-Year GPA: 9.78 / 10.0** (Sem VII: 9.57 · Sem VIII: 10.00)
+
+[Email](mailto:mohammad.anas.1367@gmail.com) • [LinkedIn](https://linkedin.com/in/mohammad-anas-africawala) • [GitHub](https://github.com/Anas18102004) • Gujarat, India
+
+</div>
 
 ---
 
-## 🧠 About Me
+## 🔬 Engineering Focus & Research Philosophy
 
-A passionate AI and Data Science undergraduate specializing in Machine Learning, Deep Learning, Computer Vision, NLP, and Large Language Models. I love building real-world, intelligent systems and participating in innovation-driven projects. I thrive on creating multi-modal AI applications and have excelled in numerous hackathons.
+I build robust, reproducible software systems that bridge algorithmic machine learning with production software engineering. My technical focus spans:
 
----
-
-## 💻 Tech Arsenal
-
-### 🤖 AI & Machine Learning
-<p>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21C?style=flat-square&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/LangChain-000000?style=flat-square"/>
-  <img src="https://img.shields.io/badge/LangGraph-000000?style=flat-square"/>
-</p>
-
-### 📊 Data Science & Analytics
-<p>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white"/>
-</p>
-
-### 🌐 Full Stack Development
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-</p>
-
-### 🗃️ Databases & Tools
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-</p>
+- **Self-Supervised Representation Learning & Vision:** Investigating architecture-native representations in transformer and convolutional vision backbones, multi-scale geometric losses, and attention gradient diagnostics under severe labeling constraints.
+- **Geospatial & Ecological AI:** Engineering multi-source Earth observation pipelines (Copernicus Marine NetCDF, ETOPO bathymetry) paired with spatial group cross-validation to prevent spatial autocorrelation leakage in environmental suitability modeling.
+- **Information Retrieval & Agentic Systems:** Designing dense vector search microservices (SentenceTransformers, FAISS $L_2$-normalized inner product) and stateful multi-agent deliberation graphs (LangGraph, Model Context Protocol) with strict citation grounding to suppress hallucination.
+- **Production Systems & Edge Computing:** Deploying high-throughput containerized microservices (FastAPI, Docker, CI/CD automated gates), edge computer vision with Raspberry Pi hardware actuation, and commercial desktop software published on the Microsoft Store.
 
 ---
 
-## 🔥 GitHub Stats
+## 🏛️ Core Technical Competencies
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anas18102004&show_icons=true&theme=radical"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anas18102004&theme=radical"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anas18102004&layout=compact&theme=radical"/>
-</p>
+| Domain | Methodologies & Frameworks | Applied Systems & Architectures |
+| :--- | :--- | :--- |
+| **Machine Learning & Deep Learning** | PyTorch, TensorFlow, Scikit-Learn, XGBoost, YOLO (v5/v8/v12), Self-Supervised Learning (SimSiam, DenseCL), Representation Probing (CKA), Isotonic Calibration | Low-budget SSL pretraining, spatial cross-validation, gradient magnitude forensics, classification & detection |
+| **NLP, LLMs & Retrieval (RAG)** | SentenceTransformers, LangChain, LangGraph, CrewAI, FAISS, Qdrant, Model Context Protocol (MCP), PEFT/LoRA | Grounded QA microservices, adversarial deliberation graphs, multi-tenant vector databases, clinical decision support |
+| **Computer Vision & Geospatial** | OpenCV, MediaPipe, Copernicus Marine NetCDF, xarray, ETOPO Bathymetry, Rasterio, GDAL | Real-time optical gesture control, traffic density estimation, multi-temporal oceanographic feature grids |
+| **Backend, Cloud & Embedded** | Python, C/C++, TypeScript, FastAPI, Flask, Docker, DigitalOcean, AWS, GitHub Actions CI/CD, Linux, Raspberry Pi GPIO | Asynchronous REST APIs, zero-downtime CI/CD deployment gates, hardware motor actuation, native C recompilation |
 
 ---
 
-## 📬 Contact Me
+## 🚀 Featured Flagship Projects
 
-<p align="center">
-  <a href="mailto:MOHAMMAD.ANAS.1367@GMAIL.COM">
-    <img src="https://img.shields.io/badge/Gmail-Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/mohammad-anas-africawala/">
-    <img src="https://img.shields.io/badge/LinkedIn-View_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Anas18102004">
-    <img src="https://img.shields.io/badge/GitHub-View_Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+| Project | Domain & Architecture | Key Engineering Highlights & Verified Metrics | Codebase |
+| :--- | :--- | :--- | :---: |
+| **[Strong-Seaweed](https://github.com/Anas18102004/Strong-Seaweed)** | **Geospatial Ecological AI**<br>`XGBoost` · `Copernicus NetCDF` · `ETOPO` · `Spatial CV` | Fused 23 physical oceanographic predictors (SST variance, marine heat stress, wave height) across 246 marine occurrences along the Gulf of Mannar. Mitigated spatial autocorrelation leakage via **5-fold Spatial Group Cross-Validation**. Achieved **spatial-CV ROC-AUC of 0.9288 ± 0.1226**, spatial AP of 0.9042, and out-of-fold Brier score of 0.0944 with automated CI release gates. | [Repository](https://github.com/Anas18102004/Strong-Seaweed) |
+| **[MedRag](https://github.com/Anas18102004/MedRag)** | **Biomedical RAG Microservice**<br>`SentenceTransformers` · `FAISS IndexFlatIP` · `Flask` · `Docker` | Containerized semantic search microservice over curated PubMed clinical abstracts. Generates 768-D embeddings (`all-mpnet-base-v2`) with unit $L_2$ normalization for exact inner-product cosine search. Measured an average cosine-similarity margin of **0.138 between top-1 matching citations and nearest non-matching distractors**, maintaining **sub-50ms query vector retrieval latency**. | [Repository](https://github.com/Anas18102004/MedRag) |
+| **[NyaySetu](https://github.com/Anas18102004/NyaySetu)** | **Multi-Agent Legal Deliberation Platform**<br>`LangGraph` · `Dense RAG` · `FastAPI` · `React` · `Docker` | Full-stack legal reasoning platform pairing retrieval-augmented generation with a multi-agent adversarial deliberation graph (opposing counsel, neutral judge, client advocate). Features case-session memory, multi-turn state persistence, bilingual support, and Twilio/IVR telephone gateway integration. | [Repository](https://github.com/Anas18102004/NyaySetu) |
+| **[Robo (Jerry)](https://github.com/Anas18102004/Robo)** | **Autonomous Vision Robot**<br>`Raspberry Pi 4` · `YOLO` · `OpenCV` · `MediaPipe` · `GPIO` | Physical autonomous mobile robot equipped with optical vision tracking and motor-driven actuation arm. Maps spoken natural language commands to real-time YOLO visual object detection and MediaPipe hand/face gesture recognition with low-latency GPIO pulse-width modulation (PWM). | [Repository](https://github.com/Anas18102004/Robo) |
+| **[mindmesh-traffic-vision](https://github.com/Anas18102004/mindmesh-traffic-vision)** | **Intelligent Traffic Vision System**<br>`OpenCV` · `Object Tracking` · `TypeScript` · `Vite` | Edge-capable computer vision system for intersection traffic analytics. Processes real-time multi-lane video streams to estimate vehicle density, queue lengths, optical flow velocities, and dynamic congestion indexes with interactive telemetry visualization. | [Repository](https://github.com/Anas18102004/mindmesh-traffic-vision) |
+| **[cricket-legacy](https://github.com/Anas18102004/cricket-legacy)** | **Systems Engine Recompilation**<br>`C/C++` · `Android NDK` · `OpenGL ES` · `Memory Layout` | Low-level static recompilation and native Android port of a legacy 3D game engine. Reconstructs binary memory layouts, endianness translation, asset packaging pipelines, and cross-compilation toolchains for modern ARM64-v8a architectures. | [Repository](https://github.com/Anas18102004/cricket-legacy) |
+| **CertiStock** | **Commercial Document AI (AinzaTechLabs)**<br>`Python` · `OpenCV` · `Node.js` · `Microsoft Store` | Commercial production desktop software published on the **Microsoft Store** for textile manufacturing supply chains. Implements automated OCR alignment and inventory reconciliation pipelines, processing 500+ weekly certification sheets with 92%+ field-extraction accuracy across non-standard layouts. | [Commercial Software](https://github.com/ainza78692-design/certistock) |
+
+---
+
+## 🏆 Selected Honors & Competitive Achievements
+
+- **Google Student Ambassador:** Selected through a competitive national process to lead campus AI innovation workshops and Google Gemini technology initiatives.
+- **National Hackathon Distinctions:**
+  - **Winner** — Innosprint (2025)
+  - **Top 7 Finalist** — ML-Fiesta, IIIT Bangalore
+  - **Top 10 Finalist** — Codeversity Hackathon, IIT Gandhinagar
+- **Competitive Innovation Awards:**
+  - **Finalist (2024 and 2025)** — The Maverick Effect AI Challenge (NASSCOM / DMFT)
+  - **Shortlisted Finalist** — Odoo National Hackathon 2025 (24-hr Offline Finals, Gandhinagar)
+- **Technical Bootcamps:** Short-Term Training Program (STTP) on AI & Robotics (SVNIT) · Drone Technology Bootcamp (SVNIT).
+
+---
+
+## 📂 Portfolio Repository Navigation
+
+```
+├── 🔬 Research & Machine Learning
+│   ├── Strong-Seaweed           # Geospatial Earth observation & XGBoost suitability modeling
+│   ├── MedRag                   # High-throughput biomedical vector retrieval microservice
+│   ├── DeepFake                 # Media forensics & deepfake video verification pipeline
+│   └── RAG-Conflict             # Empirical document conflict reconciliation benchmark
+│
+├── 🤖 Autonomous Agents & Full-Stack AI
+│   ├── NyaySetu                 # LangGraph adversarial courtroom deliberation platform
+│   ├── Law_Ivr                  # Twilio telephony & Whisper voice consultation gateway
+│   ├── orbix-your-ai-team-navigator # Multi-agent workflow coordination workspace
+│   └── Prompt-To-animation      # Natural language to parametric animation engine
+│
+├── 👁️ Computer Vision & Robotics
+│   ├── Robo (Jerry)             # Raspberry Pi 4 autonomous vision robot with GPIO arm
+│   ├── mindmesh-traffic-vision  # Real-time traffic queue & density analytics platform
+│   └── Flappy-Bird-Using-CV     # Optical gesture control interface via MediaPipe
+│
+└── ⚙️ Systems & Low-Level Engineering
+    └── cricket-legacy           # C/C++ native game engine port for modern Android ARM64
+```
+
+---
+
+<div align="center">
+
+*Maintained with rigorous engineering standards, verified reproducibility, and empirical integrity.*
+
+</div>
